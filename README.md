@@ -1,3 +1,3 @@
 # git-demo
 Starting from here
-author-mohit mohan yadav
+author-mohit mohan yadav(iit ropar)
